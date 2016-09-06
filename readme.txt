@@ -8,3 +8,4 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 实战一下--no-ff方式的git merge：
+暂停一下，出去做其他事情
