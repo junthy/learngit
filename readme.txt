@@ -5,3 +5,4 @@ fouth change
 git has amutable index called stage.
 ttttttbb
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
