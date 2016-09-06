@@ -7,4 +7,4 @@ ttttttbb
 Creating a new branch is quick.
 Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
-
+实战一下--no-ff方式的git merge：
